@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"aud_lolbit_enter",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":1.1698186,
+  "exportDir":"",
+  "name":"aud_lolbit_enter",
+  "parent":{
+    "name":"audio",
+    "path":"folders/audio.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"aud_lolbit_enter.ogg",
+  "volume":1.0,
+}

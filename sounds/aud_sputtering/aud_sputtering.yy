@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"aud_sputtering",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":7.915805,
+  "exportDir":"",
+  "name":"aud_sputtering",
+  "parent":{
+    "name":"audio",
+    "path":"folders/audio.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"aud_sputtering.wav",
+  "volume":1.0,
+}
